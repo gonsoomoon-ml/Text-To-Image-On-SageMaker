@@ -7,7 +7,6 @@
     - [Jan 2023, Upscale images with Stable Diffusion in Amazon SageMaker JumpStart](https://aws.amazon.com/blogs/machine-learning/upscale-images-with-stable-diffusion-in-amazon-sagemaker-jumpstart/)    
 - SageMaker Jumpstart 및 SDK 를 사용하여,Stable Diffusion 2.1 을 모델 배포하고 추론을 합니다. 또한 Transfer Learning 의 Fine-Tuning 을 통하여 스타일을 학습하고 추론을 제공합니다. 
     - [Nov 2022, Generate images from text with the stable diffusion model on Amazon SageMaker JumpStart](https://aws.amazon.com/blogs/machine-learning/generate-images-from-text-with-the-stable-diffusion-model-on-amazon-sagemaker-jumpstart/)
-    
 - Stable Diffusion 2.0 이 SageMaker Jumpstart 에서 사용이 가능하다는 블로그 입니다. 
     - [Nov 2022, Stability AI builds foundation models on Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/stability-ai-builds-foundation-models-on-amazon-sagemaker/)
 - Diffusers 라이브러리로 Stable Diffusion 을 사용하는 가이드
